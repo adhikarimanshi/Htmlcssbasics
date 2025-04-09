@@ -18,4 +18,4 @@ A responsive template of website built using **HTML**, **CSS (Flexbox)**, **Boot
 - CSS3 (Flexbox)
 - Bootstrap 5
 - Font Awesome (for icons)
-- JavaScript (optional interactivity)
+
