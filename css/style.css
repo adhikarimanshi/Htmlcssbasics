@@ -1,0 +1,55 @@
+body,
+* {
+  padding: 0;
+  margin: 0;
+}
+.header {
+  background-color: grey;
+  padding: 20px;
+}
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 20px;
+}
+.Container {
+  background-color: antiquewhite;
+  display: flex;
+}
+.left {
+  background-color: rgb(184, 182, 180);
+  width: 30%;
+
+  padding: 20px;
+}
+.left li a {
+  text-decoration: none;
+}
+.left li a:hover {
+  background-color: red;
+}
+.Right {
+  background-color: rgb(231, 229, 226);
+  width: 100%;
+
+  padding: 20px;
+}
+h2 {
+  padding: 20px;
+  color: black;
+}
+p {
+  display: block;
+  color: black;
+  padding-left: 20px;
+  line-height: 30px;
+  text-align: justify;
+}
+
+Footer {
+  background-color: grey;
+  text-align: center;
+  height: 50px;
+  padding: 20px;
+  font-size: 20px;
+}
